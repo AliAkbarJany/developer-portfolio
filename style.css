@@ -12,6 +12,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width:50%;
@@ -33,3 +34,14 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.please-click{
+    color:antiquewhite;
+    text-decoration: none;
+    padding:10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(maroon,blue);
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;}
